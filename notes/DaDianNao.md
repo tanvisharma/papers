@@ -1,7 +1,7 @@
 # DaDianNao
 
-Link: https://www.eecg.toronto.edu/~moshovos/000/lib/exe/fetch.php?media=wiki:aca2017:dadiannao.pdf  
-Link to DianNao paper: https://users.cs.duke.edu/~lkw34/papers/diannao-asplos2014.pdf  
+Paper: https://www.eecg.toronto.edu/~moshovos/000/lib/exe/fetch.php?media=wiki:aca2017:dadiannao.pdf  
+DianNao paper: https://users.cs.duke.edu/~lkw34/papers/diannao-asplos2014.pdf  
 ## Problem
 Model sizes increasing exponentially (GBs of data), memory bandwidth is the key bottleneck, especially in fully connected networks.
 
