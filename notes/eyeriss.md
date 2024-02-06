@@ -1,4 +1,7 @@
 # Eyeriss
+
+Link to paper: https://ieeexplore.ieee.org/document/7738524
+
 ## Problem
 DNN layer sizes are big and vary in size, making it difficult to efficiently run them on spatial architectures. Particularly, there are various opportunities for leveraging data reuse in DNNs, which comes at the cost of flexibility in hardware. The question is how to design an energy efficient architecture with highest data reuse.
 
